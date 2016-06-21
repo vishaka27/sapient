@@ -4,5 +4,6 @@ int main()
 printf("Helllo \n");
 printf("program \n");
 printf("1");
+printf("2");
 return 0;
 }
