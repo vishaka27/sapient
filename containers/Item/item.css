@@ -1,0 +1,17 @@
+.item-style{
+	width: 24.68%;
+	height: 300px;
+	display: inline-block;
+}
+
+.item-style:hover{
+	transform: scale(1.1);
+}
+
+.item-image{
+	display: block;
+}
+
+.item-link{
+	display: block;
+}

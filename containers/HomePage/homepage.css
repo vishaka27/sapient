@@ -1,0 +1,6 @@
+.item-container{
+    position: absolute;
+    left: 320px;
+    display: inline-block;
+    top: 150px;
+}
